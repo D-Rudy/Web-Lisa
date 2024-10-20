@@ -94,7 +94,6 @@ body {
 
 /* Services Section */
 .services {
-    height: 100vh;
     padding: 5rem 2rem;
     background-color: var(--white);
 }
@@ -126,7 +125,6 @@ body {
 
 /* Pricing Section */
 .pricing {
-    height: 50vh;
     padding: 5rem 2rem;
     background-color: var(--light-blue);
     text-align: center;
